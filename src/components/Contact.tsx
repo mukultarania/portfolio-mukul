@@ -7,7 +7,7 @@ const Contact = () => {
 		email: "",
 		message: "",
 	});
-	const apiUrl = import.meta.env.MAIL_ACCESS_KEY;
+    const apiUrl = import.meta.env.VITE_MAIL_ACCESS_KEY;
 
 	const handleSubmit = async (event) => {
 		event.preventDefault();
