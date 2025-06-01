@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container mx-auto px-6">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
-            <h3 className="text-2xl font-bold">John.dev</h3>
+            <h3 className="text-2xl font-bold">Mukul.dev</h3>
             <p className="text-gray-400 mt-2">Building digital experiences</p>
           </div>
           
@@ -25,7 +25,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} John.dev. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Mukul.dev. All rights reserved.</p>
         </div>
       </div>
     </footer>
