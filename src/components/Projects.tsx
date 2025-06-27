@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import { Github, ExternalLink } from "lucide-react";
+import { Link } from "react-router-dom";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { projects } from "../data/projects";
@@ -63,12 +64,12 @@ const Projects = () => {
 				</div>
 				{/* Add "See All Projects" button */}
 				<div className="text-center mt-12">
-					<a
-						href="/projects"
+					<Link
+						to="/projects"
 						className="inline-block px-6 py-3 text-white bg-blue-600 hover:bg-blue-700 rounded-lg shadow-md transition duration-200"
 					>
 						See All Projects
-					</a>
+					</Link>
 				</div>
 			</div>
 		</section>
