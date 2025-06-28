@@ -60,7 +60,7 @@ const Contact = () => {
 									size={24}
 								/>
 								<span className="text-gray-600">
-									mukuljobs@gmail.com
+									mukultaraniajobs@gmail.com
 								</span>
 							</div>
 							<div className="flex items-center">

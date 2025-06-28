@@ -31,7 +31,7 @@ const Hero = () => {
                 <ArrowRight className="ml-2" size={20} />
               </a>
               <a 
-                href="/resume.pdf"
+                href="/mukul-resume.pdf"
                 className="px-8 py-4 border-2 border-blue-600 text-blue-600 rounded-lg hover:bg-blue-50 transition-all transform hover:scale-105 flex items-center justify-center"
                 download
               >
