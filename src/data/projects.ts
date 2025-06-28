@@ -1,5 +1,19 @@
-
 export const projects = [
+	{
+		title: "Fit AI",
+		date: "2024",
+		link: "https://github.com/mukultarania/fit-ai", // Update if repo URL is different
+		appLink: "https://fit-ai-sooty.vercel.app/",
+		description:
+			"AI-powered fitness assistant that generates personalized workout and diet plans.",
+		highlights: [
+			"Integrated OpenAI API for dynamic fitness recommendations",
+			"Responsive, mobile-friendly UI with clean UX",
+			"Custom form handling and interactive suggestions",
+		],
+		flag: true,
+	},
+
 	{
 		title: "Refokus Clone",
 		date: "2024",
@@ -12,7 +26,7 @@ export const projects = [
 			"Responsive design with modern UI/UX",
 			"Advanced React patterns and hooks",
 		],
-		flag: true,
+		flag: false,
 	},
 	{
 		title: "Cloth Store",
@@ -40,18 +54,18 @@ export const projects = [
 			"Photo sharing and filters",
 			"User interactions and following system",
 		],
-		flag: false,
+		flag: true,
 	},
 	{
 		title: "Vaccine Slots Tracker",
 		date: "June 2021",
-        link: "",
+		link: "",
 		description:
 			"Android application for finding available vaccination slots in India using Cowin API",
 		highlights: [
 			"Implemented recycler view and content providers",
 			"Integrated Cowin API for real-time slot tracking",
 		],
-		flag: true,
+		flag: false,
 	},
 ];
