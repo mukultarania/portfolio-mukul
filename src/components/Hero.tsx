@@ -10,7 +10,7 @@ const Hero = () => {
 		>
 			<div className="absolute inset-0 bg-grid-pattern opacity-5"></div>
 			<div className="container mx-auto px-6 relative">
-				<div className="flex flex-col md:flex-row items-center justify-between gap-12">
+				<div className="mt-96 sm:mt-50 md:mt-0 flex flex-col md:flex-row items-center justify-between gap-12">
 					<div className="md:w-1/2 space-y-8">
 						<div className="space-y-4">
 							<h2 className="text-blue-600 font-semibold tracking-wide uppercase">
@@ -25,7 +25,7 @@ const Hero = () => {
 							<p className="text-xl text-gray-600 max-w-2xl">
 								A highly motivated and performance-driven
 								professional with a strong foundation in
-								Software Development, targeting assignments in
+								Software Development with 4+ years of experience, targeting assignments in
 								Back-end & Front-end Development.
 							</p>
 						</div>

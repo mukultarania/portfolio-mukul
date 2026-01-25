@@ -2,7 +2,7 @@ export const experience = {
 	current: {
 		company: "Accenture",
 		location: "Delhi",
-		position: "Software Engineer",
+		position: "Full Stack Senior Software Engineer",
 		duration: "January 2024 - Present",
 		responsibilities: [
 			"Developed MVR (Motor Vehicle Report) endorsement feature enabling license-based user data retrieval and real-time insurance premium computation, reducing manual processing time by 40%",
@@ -17,8 +17,7 @@ export const experience = {
 			"Streamlined end-to-end approval process",
 		],
 		coreStrengths: [
-			"Jest and Babel Upgrade",
-			"Java 11 Modernization",
+			"React and Spring Boot",
 			"Performance Optimization",
 			"Jenkins Integration",
 			"Cross-team Communication",
@@ -29,7 +28,7 @@ export const experience = {
 		{
 			company: "Tata Consultancy Services",
 			location: "Delhi",
-			position: "System Engineer",
+			position: "Full Stack Developer",
 			duration: "October 2021 - December 2023",
 			responsibilities: [
 				"Worked in the redesign and integration of the Rating Analysis (RA) module with the US Regulatory Tab, significantly optimizing the end-to-end regulatory approval workflow",
@@ -44,7 +43,8 @@ export const experience = {
 				"Redesigned RA integration with US Regulatory Tab",
 				"Streamlined end-to-end approval process",
 			],
-			coreStrengths: [
+            coreStrengths: [
+                "React and Spring Boot",
 				"Agile Development",
 				"Cloud Database Migration",
 				"Java 11 Modernization",

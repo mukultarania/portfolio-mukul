@@ -38,7 +38,6 @@ export const projects = [
 		highlights: [
 			"Complete e-commerce functionality",
 			"Responsive product catalog",
-			"User authentication and cart management",
 		],
 		flag: false,
 	},
