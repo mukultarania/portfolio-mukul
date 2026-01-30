@@ -63,19 +63,25 @@ const NavLinks = () => (
 			Home
 		</Link>
 		<a
-			href="#about"
+			href="/#about"
 			className="text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white"
 		>
 			About
 		</a>
 		<a
-			href="#projects"
+			href="/#projects"
 			className="text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white"
 		>
 			Featured Projects
 		</a>
 		<a
-			href="#contact"
+			href="/#leetcode"
+			className="text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white"
+		>
+			LeetCode
+		</a>
+		<a
+			href="/#contact"
 			className="text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white"
 		>
 			Contact
